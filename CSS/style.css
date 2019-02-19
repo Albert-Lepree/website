@@ -1,1 +1,14 @@
+body {
+  backround-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-allign: center
+}
+
+p {
+  font-family: verdana;
+  dont-size: 20px;
+}
 
