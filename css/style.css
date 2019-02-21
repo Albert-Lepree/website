@@ -24,6 +24,7 @@ p {
   position: relative;
   bottom: 705px;
   left: 493px;
+  max-width: 1450px;
 }
 
 h5 {
