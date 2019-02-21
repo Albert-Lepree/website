@@ -13,13 +13,17 @@ h1 {
 
 h2 {
   color: black;
-  text-align: left;
+  position: relative;
+  bottom: 690px;
+  left: 495px;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
-  text-align: left;
+  position: relative;
+  bottom: 705px;
+  left: 493px;
 }
 
 h5 {
