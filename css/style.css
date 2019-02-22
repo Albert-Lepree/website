@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-image: url("https://backgroundcheckall.com/wp-content/uploads/2018/10/free-background-for-commercial-use-7.jpg");
 }
 
 h1 {
@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-  color: black;
+  color: white;
   position: relative;
   bottom: 690px;
   left: 495px;
@@ -25,6 +25,7 @@ p {
   bottom: 705px;
   left: 493px;
   max-width: 1090px;
+  color: white;
 }
 
 h5 {
