@@ -1,37 +1,23 @@
-body {
-  background-image: url("https://backgroundcheckall.com/wp-content/uploads/2018/10/free-background-for-commercial-use-7.jpg");
+body {   
+    background-color: slategray;
 }
+
 
 h1 {
-  color: white;
+  color: black;
   font-weight: bold;
   font-size: 75px;
-  position: relative;
-  bottom: 610px;
-  left: 490px;
+  text-align: center;
+  border-bottom: 6px solid black;
 }
 
+
 h2 {
-  color: white;
-  position: relative;
-  bottom: 690px;
-  left: 495px;
-}
+  color: black;
 
 p {
   font-family: verdana;
   font-size: 20px;
-  position: relative;
-  bottom: 705px;
-  left: 493px;
-  max-width: 1090px;
-  color: white;
-}
-
-h5 {
-  color: white;
-  position: relative;
-  bottom: 660px;
-  left: 495px;
-  font-size: 25px;
+  color: black;
+  max-width: 690px
 }
